@@ -1,0 +1,76 @@
+table {
+    padding-top: 200px;
+}
+body {
+    height: 100%;
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+    color: aliceblue;
+}
+
+.middle {
+    text-align: center;
+}
+
+.right {
+    background-color: #100F56;
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    right: 0px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    justify-content: center;
+    font-size: 19px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+    font-weight: bold;
+}
+.left {
+    background-color:#1da1f2;
+    height: 100%;
+    width: 50%;
+    left: 0px;
+    position: absolute;
+    text-align: center;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    
+}
+
+.left-text {
+    line-height: 1.31;
+    font-weight: bold;
+    font-size: 19px;
+    margin-left: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+    margin-top: 300px;
+}
+.firstrow {
+    position: relative;
+    bottom: 200px;
+}
+
+.input {
+    height: 40px;
+}
+
+.text-span {
+    font-size: 19px;
+    top: 300px;
+}
+.middle { 
+    font-size: large;
+}
+
+.singup-button {
+    background-color: #1da1f2;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+    color: white;
+}
